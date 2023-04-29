@@ -38,4 +38,4 @@ What makes **you beautiful**
 [Taylor Swift][1]<br>
 [Serena Williams][2]<br>
 [Skillet][3]<br>
-![Skillet](https://github.com/cbaylor2004/AboutMe/main/img/skillet.jpg)
+![Skillet](https://Downloads/img/skillet.jpg)
