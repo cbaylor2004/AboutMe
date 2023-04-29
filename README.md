@@ -2,7 +2,7 @@
 ---
 ---
 | Terms |
-|-|
+|:-|
 | Vivid |
 | Oriflamme |
 | Eccentric |
