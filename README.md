@@ -43,7 +43,7 @@ What makes **you beautiful**
 ## Persons of Interest 
 [Taylor Swift][1]<br>
 <kbd> 
-<img src="https:github.com/cbaylor2004/AboutMe/blob/master/img/OIP">
+<img src="https:github.com/cbaylor2004/AboutMe/blob/img/OIP">
 [Serena Williams][2]<br>
 <kbd> 
 <img src= >
