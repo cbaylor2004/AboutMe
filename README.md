@@ -15,3 +15,15 @@ My night time routine
 1. shower
 2. face wash
 3. sleep
+
+## My Motto
+
+*Its not about intelligence, but persistance*
+
+## Favorite Quotes
+
+What makes **you beautiful**
+<b>What are you</b> in life 
+
+## Favorite Websites
+[MaxPreps](https://www.maxpreps.com)
