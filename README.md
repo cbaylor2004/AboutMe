@@ -3,9 +3,11 @@
 ---
 # Summary
 [I have a new home]: https://redbirdrants.com/
-[1]:https://www.taylorswift.com/
-## Hey, I am Charity Baylor and a current senior at Gibson Southern and SICTC. I am 18 years old and have two older siblings who have already graduated. Finally I play tennis on jv. 
 
+## Hey, I am Charity Baylor and a current senior at Gibson Southern and SICTC. I am 18 years old and have two older siblings who have already graduated. Finally I play tennis on jv. 
+[1]:https://www.taylorswift.com/
+[2]:https://en.wikipedia.org/wiki/Serena_Williams
+[3]:https://www.skillet.com/?frontpage=true
 Hobbies
 -
 - tennis
@@ -33,4 +35,6 @@ What makes **you beautiful**
 <br>[I'm being tagged][I have a new home]
 
 ## Persons of Interest 
-[Taylor Swift][1]
+[Taylor Swift][1]<br>
+[Serena Williams][2]<br>
+[Skillet][3]
