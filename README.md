@@ -37,5 +37,5 @@ What makes **you beautiful**
 ## Persons of Interest 
 [Taylor Swift][1]<br>
 [Serena Williams][2]<br>
-[Skillet][3]
-![Skillet](https://downloads/img/skillet.jpg)
+[Skillet][3]<br>
+![Skillet](https://github.com/downloads/img/skillet.jpg)
