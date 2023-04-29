@@ -1,6 +1,12 @@
 # AboutMe
 ---
 ---
+| Terms |
+|-|
+| Vivid |
+| Oriflamme |
+| Eccentric |
+| Supine |
 # Summary
 [I have a new home]: https://redbirdrants.com/
 
