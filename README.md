@@ -12,4 +12,6 @@ Hobbies
 
 My night time routine 
 -
--1 wake up
+1. shower
+2. face wash
+3. sleep
