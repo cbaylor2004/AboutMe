@@ -1,12 +1,12 @@
 # AboutMe
 ---
 ---
-| Terms |
-|:-|
-| Vivid |
-| Oriflamme |
-| Eccentric |
-| Supine |
+| Terms | Definitions | My Meaning |
+|:-|:----:|----: |
+| Vivid | Powerful, intensive color | bright color |
+| Oriflamme | A knight's battle standard | it is a flame |
+| Eccentric | Of unconvential and slightly strange character | weird or strange |
+| Supine | lying face upward | some super look |
 # Summary
 [I have a new home]: https://redbirdrants.com/
 
