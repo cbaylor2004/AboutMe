@@ -3,6 +3,7 @@
 ---
 # Summary
 [I have a new home]: https://redbirdrants.com/
+[1]:https://www.taylorswift.com/
 ## Hey, I am Charity Baylor and a current senior at Gibson Southern and SICTC. I am 18 years old and have two older siblings who have already graduated. Finally I play tennis on jv. 
 
 Hobbies
@@ -30,3 +31,6 @@ What makes **you beautiful**
 [MaxPreps](https://www.maxpreps.com)
 <br>[MaxPreps](https://www.maxpreps.com/ladytennis "Lady Titan Tennis")
 <br>[I'm being tagged][I have a new home]
+
+## Persons of Interest 
+[Taylor Swift][1]
